@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">fynd</string>
+    <string name="startAR">Start AR Activity</string>
+    <string name="findButtonPrompt">Find food near you</string>
+    <string name="startPrompt">Tap button to get started</string>
+    <string name="againFindPrompt">Refresh your appetite</string>
+    <string name="defaultResName">Central Perk</string>
+    <string-array name="menu_items">
+        <item>Pizza</item>
+        <item>Coffee</item>
+        <item>Burger</item>
+        <item>Pasta</item>
+        <item>Hash browns</item>
+        <item>Lasagna</item>
+        <item>Caprese Salad with Pesto Sauce</item>
+        <item>Panzenella</item>
+        <item>Bruschetta</item>
+        <item>Focaccia Bread</item>
+        <item>Pasta Carbonara</item>
+    </string-array>
+</resources>
